@@ -120,9 +120,3 @@ structure so that relative paths resolve correctly.
 - Full-period exploratory analysis has already been conducted.
   Later internal evaluation will document this prior exposure.
 
-## Submission Version
-
-The Milestone 2 submission will identify this repository URL and the
-exact final commit hash or release tag. The repository may continue
-to change after submission; the submitted version is the grading
-reference.
